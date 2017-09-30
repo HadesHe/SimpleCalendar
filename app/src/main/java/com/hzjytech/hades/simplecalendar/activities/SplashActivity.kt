@@ -4,7 +4,6 @@ import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import com.hzjytech.hades.simplecalendar.MainActivity
-import com.hzjytech.hades.simplecalendar.R
 import com.hzjytech.hades.simplecalendar.helpers.DAY_CODE
 import com.hzjytech.hades.simplecalendar.helpers.EVENT_ID
 import com.hzjytech.hades.simplecalendar.helpers.EVENT_OCCURRENCE_TS
